@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Onur Kerimov 👋
 
 I like designing APIs with high levels of ergonomics, reuse, and extensibility. 
 
