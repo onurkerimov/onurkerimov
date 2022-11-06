@@ -10,3 +10,4 @@ I'm the creator of [**xoid**](https://github.com/onurkerimov/onurkerimov) ( [rep
 - [boxoid](https://github.com/onurkerimov/boxoid) - A criticism against classical **styled** functions
 - [itches](https://github.com/onurkerimov/itches) - A tool for theming with CSS4 variables
 - [@xoid/feature](https://www.npmjs.com/package/@xoid/feature) - A typesafe plugin system oriented in ES6 classes
+- [decorations-vscode-extension](https://github.com/onurkerimov/decorations-vscode-extension) - Replaces JS keywords with symbols [experimental]
