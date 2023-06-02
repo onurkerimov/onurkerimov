@@ -1,8 +1,6 @@
 ## Hi there, I'm Onur Kerimov 👋
 
-I like designing APIs with high levels of ergonomics, reuse, and extensibility. 
-
-I care for developer experience and human productivity.
+I like designing APIs that cares for developer experience and human productivity.
 
 <a href="https://xoid.dev">
   <img width="320" src="https://raw.githubusercontent.com/onurkerimov/xoid/master/assets/logo-full.svg" />
