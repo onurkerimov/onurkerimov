@@ -4,7 +4,7 @@ I like designing APIs that care for developer experience and human productivity.
 </br>
 
 <a href="https://xoid.dev">
-  <img width="151" src="https://raw.githubusercontent.com/onurkerimov/xoid/master/assets/logo-full.svg" align="left" />
+  <img width="167" src="https://raw.githubusercontent.com/onurkerimov/xoid/master/assets/logo-full.svg" align="left" />
 </a>
       
 I'm the creator of [**xoid**](https://github.com/xoidlabs/xoid) ( [repo ↗︎](https://github.com/xoidlabs/xoid) / [npm ↗︎](https://www.npmjs.com/package/xoid) / [website ↗︎](https://xoid.dev) / [opencollective ↗︎](https://opencollective.com/xoid) ), a framework-agnostic state management library. It unifies global state, local component state, finite state machines, and observable streams in a single, easy-to-learn API. React has a special place in the project's spirit. Even though it's framework-agnostic, **xoid**'s secondary aim is bringing particularly to React the modern reactivity patterns.
