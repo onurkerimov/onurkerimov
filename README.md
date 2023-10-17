@@ -1,7 +1,13 @@
 ## Hi there, I'm Onur Kerimov 👋
 
-> Currently I'm looking for a job in the EU area, see my CV [here](https://onurkerimov.github.io/cv/Onur%20Kerimov's%20CV.pdf).
-
+<table>
+  <thead></thead>
+  <tbody>
+  <tr><td>
+      I'm currently looking for a job in the EU area. <a href="https://onurkerimov.github.io/cv/Onur%20Kerimov's%20CV.pdf">See my CV here</a>.
+  </td></tr>
+  </tbody>
+</table>
 
 I like designing APIs that care for developer experience and human productivity.
 </br>
@@ -15,6 +21,7 @@ I'm the creator of [**xoid**](https://github.com/xoidlabs/xoid) ( [repo ↗︎](
 </br>
 
 ### Other projects
+- [xoidrag](https://github.com/xoidlabs/xoidrag) - A customizable and modular drag-and-drop library
 - [boxoid](https://github.com/onurkerimov/boxoid) - A more potent alternative to **styled** functions
 - [itches](https://github.com/onurkerimov/itches) - A tool for theming with CSS4 variables
 - [@xoid/feature](https://github.com/xoidlabs/feature) - A typesafe plugin system oriented in ES6 classes
