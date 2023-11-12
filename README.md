@@ -9,7 +9,10 @@
   </tbody>
 </table>
 
-I like designing APIs that care for developer experience and human productivity.
+I love open source. I love designing neat APIs that care for developer experience. 
+
+I've contributed to popular open source projects such as [Stitches](https://github.com/stitchesjs/stitches/pull/1051) and [react-date-range](https://github.com/hypeserver/react-date-range/commits?author=onurkerimov).
+
 </br>
 
 <a href="https://xoid.dev">
