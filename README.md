@@ -4,7 +4,7 @@
   <thead></thead>
   <tbody>
   <tr><td>
-      I'm currently looking for a job in the EU area. <a href="https://onurkerimov.github.io/cv/Onur%20Kerimov's%20CV.pdf">See my CV here</a>.
+      I'm currently looking for a job in the EU area. <a href="https://onurkerimov.github.io/cv/">See my CV here</a>.
   </td></tr>
   </tbody>
 </table>
