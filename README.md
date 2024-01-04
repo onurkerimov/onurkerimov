@@ -9,9 +9,7 @@
   </tbody>
 </table>
 
-I love open source. I love designing neat APIs that care for developer experience. 
-
-I've contributed to popular open source projects such as [Stitches](https://github.com/stitchesjs/stitches/pull/1051) and [react-date-range](https://github.com/hypeserver/react-date-range/commits?author=onurkerimov).
+I love designing neat APIs that care for developer experience. I love open source and I've contributed to popular open source projects such as [Stitches](https://github.com/stitchesjs/stitches/pull/1051) and [react-date-range](https://github.com/hypeserver/react-date-range/commits?author=onurkerimov).
 
 </br>
 
