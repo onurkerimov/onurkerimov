@@ -22,6 +22,7 @@ I'm the creator of [**xoid**](https://github.com/xoidlabs/xoid) ( [repo ↗︎](
 </br>
 
 ### Other projects
+- [animate-code](https://github.com/onurkerimov/animate-code) - A React component to animate code snippets using PrismJS and `@formkit/auto-animate`
 - [xoidrag](https://github.com/xoidlabs/xoidrag) - A customizable and modular drag-and-drop library
 - [boxoid](https://github.com/onurkerimov/boxoid) - A more potent alternative to **styled** functions
 - [itches](https://github.com/onurkerimov/itches) - A tool for theming with CSS4 variables
