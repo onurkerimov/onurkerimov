@@ -15,11 +15,7 @@
       
 I'm the creator of [**xoid**](https://github.com/xoidlabs/xoid) ( [repo ↗︎](https://github.com/xoidlabs/xoid) / [npm ↗︎](https://www.npmjs.com/package/xoid) / [website ↗︎](https://xoid.dev) ), a framework-agnostic state management library. It unifies global state, local component state, finite state machines, and observable streams in a single, easy-to-learn API. **xoid**'s secondary aim is bringing particularly to React the modern reactivity patterns.
 
-<br/>
-
 I love open source and I've contributed to popular open source projects such as [Stitches](https://github.com/stitchesjs/stitches/pull/1051) and [react-date-range](https://github.com/hypeserver/react-date-range/commits?author=onurkerimov).
-
-<br/>
 
 ### Other projects
 - [animate-code](https://github.com/onurkerimov/animate-code) - A React component to animate code snippets using PrismJS and `@formkit/auto-animate`
