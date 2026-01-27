@@ -31,6 +31,5 @@ I love open source and some popular projects I contributed to were [Stitches](ht
 
 ### Other projects
 - [xoidrag](https://github.com/xoidlabs/xoidrag) - A customizable and modular drag-and-drop library
-- [boxoid](https://github.com/onurkerimov/boxoid) - A more potent alternative to **styled** functions
 - [itches](https://github.com/onurkerimov/itches) - A tool for theming with CSS4 variables
 - [decorations-vscode-extension](https://github.com/onurkerimov/decorations-vscode-extension) - An experimental extension to replace JS keywords with symbols
