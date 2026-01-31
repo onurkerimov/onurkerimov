@@ -13,7 +13,7 @@
   <img width="87" src="https://github.com/pacy-dev/pacy-devtools/raw/main/packages/assets/pacy-logo.svg" align="left" />
 </a>
       
-I'm building the next generation of developer tools at [**Pacy**](https://pacy.dev). It lets you prompt, inspect, edit, and review your code from your browser. You can make change requests to Claude Code, Codex, or Cursor, simply by clicking elements on your webpage. It seamlessly integrates with majo IDEs, and major UI frameworks to supercharge your development workflow.
+I'm building the next generation of developer tools at [**Pacy**](https://pacy.dev). It lets you prompt, inspect, edit, and review your code from your browser. You can make change requests to Claude Code, Codex, or Cursor, simply by clicking elements on your webpage. It seamlessly integrates with major IDEs and UI frameworks to supercharge your development workflow.
 
 ---
 
